@@ -1,0 +1,13 @@
+﻿  genkey.c
+c:\users\marti\desktop\final year project\miracl-master\miracl-master\source\genkey.c(31): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+c:\users\marti\desktop\final year project\miracl-master\miracl-master\source\genkey.c(82): warning C4129: ' ': unrecognized character escape sequence
+c:\users\marti\desktop\final year project\miracl-master\miracl-master\source\genkey.c(83): warning C4013: 'exit' undefined; assuming extern returning int
+c:\users\marti\desktop\final year project\miracl-master\miracl-master\source\genkey.c(80): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\marti\desktop\final year project\miracl-master\miracl-master\source\genkey.c(104): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\marti\desktop\final year project\miracl-master\miracl-master\source\genkey.c(107): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+  genkey.vcxproj -> C:\Users\marti\Desktop\Final Year Project\VSProj\miracl\Debug\genkey.exe
+  genkey.vcxproj -> C:\Users\marti\Desktop\Final Year Project\VSProj\miracl\Debug\genkey.pdb (Full PDB)
